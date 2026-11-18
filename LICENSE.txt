@@ -1,0 +1,9 @@
+Qorgany game artwork by Dash-ux
+
+The Qorgany artwork and accompanying project-authored asset data are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+License: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Source: https://github.com/Dash-ux/qorgany-game-art
+
+Credit Qorgany / Dash-ux, link to the license and indicate changes. The license applies to rights the licensor can grant.
